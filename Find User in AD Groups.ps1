@@ -1,3 +1,8 @@
+#Written by: Nate Barrett
+#03/12/2024
+
+
+
 # Requires the Active Directory module
 Import-Module ActiveDirectory
 
